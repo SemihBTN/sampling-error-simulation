@@ -7,7 +7,7 @@ Hiç merak ettiniz mi; bir ankette 10 kişiyle konuşmak neden yetmez de binlerc
 🛠️ Ne Yaptım? (Hokus Pokus Kısmı)
 Ham Veri: Önce 10.000 kişilik hayali bir topluluk oluşturdum.
 
-Zikzakları Silmek: Tek bir çekim yapıp "tamam oldu" demedim. Her örneklem boyutu için 100 farklı deneme yapıp bunların ortalamasını aldım. Buna "gürültü temizleme" diyoruz.
+Zikzakları Silmek: Tek bir çekim yapıp "tamam oldu" demedim. Her örneklem boyutu için 50 farklı deneme yapıp bunların ortalamasını aldım. Buna "gürültü temizleme" diyoruz.
 
 Sonuç: Ortaya çıkan grafik, rastgeleliğin içindeki o mükemmel düzeni; yani veri arttıkça hatanın nasıl sıfıra süzüldüğünü gösteriyor.
 
@@ -27,7 +27,7 @@ In statistics, when using Simple Random Sampling, small groups can be misleading
 🛠️ What Did I Do? (The Magic Behind the Scenes)
 Raw Data: I generated a synthetic population of 10,000 individuals.
 
-Cleaning the Noise: I didn't just take a single sample and call it a day. For each sample size, I performed 100 different trials and calculated their average. This is known as "noise reduction."
+Cleaning the Noise: I didn't just take a single sample and call it a day. For each sample size, I performed 50 different trials and calculated their average. This is known as "noise reduction."
 
 The Result: The resulting graph shows the perfect order within randomness; specifically, how the error smoothly glides toward zero as the data grows.
 
